@@ -1,7 +1,7 @@
 Experimental
 
 |===
-|Name|FA          |TAG |DAG1223|MAG2
+|Name|FA          |Triacylglycerol |Diacylglycerol1223|Monoacylglycerol2
 |My  |14:0        |0.2 |1.2    |0.0
 |Pe  |15:0        |0.0 |0.1    |0.0
 |Pa  |16:0        |50.0|57.1   |2.4
@@ -23,7 +23,7 @@ Theoretical
 Pa16:0 - МАГ2 в эксперименте 2.4, в расчетах 67.3
 
 |===
-|Name|FA          |TAG |DAG1223|MAG2|DAG13 (DAG1223)|DAG13 (MAG2)
+|Name|FA          |Triacylglycerol |Diacylglycerol1223|Monoacylglycerol2|DAG13 (Diacylglycerol1223)|DAG13 (Monoacylglycerol2)
 |My  |14:0        |1.6 |0.1    |3.8 |0.0            |0.3
 |Pe  |15:0        |0.1 |0.0    |0.3 |0.0            |0.0
 |Pa  |16:0        |74.1|38.1   |67.3|33.5           |73.7

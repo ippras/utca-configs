@@ -1,4 +1,4 @@
-= $TAG 1$
+= $Triacylglycerol 1$
 
 |===
 |16:0        |Hexadecanoic acid, methyl ester                      |24.748|39015268.466|49.274

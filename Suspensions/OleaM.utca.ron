@@ -319,7 +319,7 @@
             ],
         },
         {
-            "name": "TAG",
+            "name": "Triacylglycerol",
             "datatype": Float64,
             "bit_settings": "",
             "values": [
@@ -346,7 +346,7 @@
             ],
         },
         {
-            "name": "DAG1223",
+            "name": "Diacylglycerol1223",
             "datatype": Float64,
             "bit_settings": "",
             "values": [
@@ -373,7 +373,7 @@
             ],
         },
         {
-            "name": "MAG2",
+            "name": "Monoacylglycerol2",
             "datatype": Float64,
             "bit_settings": "",
             "values": [

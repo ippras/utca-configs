@@ -1,4 +1,4 @@
-= $TAG 3$
+= $Triacylglycerol 3$
 
 |===
 |14:0        |Methyl tetradecanoate                                |22.047|158879.309  |0.178
